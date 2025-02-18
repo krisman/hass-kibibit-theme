@@ -3,13 +3,7 @@
 #
 kibibit:
   # Global
-  background-image: "center / cover no-repeat fixed url('/local/bg.png'), center / cover no-repeat fixed url('https://thatkookooguy.github.io/https-assets/bg/abstract/bg.png')"
-  background-image2: "center / cover no-repeat fixed url('/local/bg.png'), center / cover no-repeat fixed url('https://thatkookooguy.github.io/https-assets/bg/abstract/bg2.png')"
-  background-image3: "center / cover no-repeat fixed url('/local/bg.png'), center / cover no-repeat fixed url('https://thatkookooguy.github.io/https-assets/bg/abstract/bg3.png')"
-  background-image4: "center / cover no-repeat fixed url('/local/bg.png'), center / cover no-repeat fixed url('https://thatkookooguy.github.io/https-assets/bg/abstract/bg4.png')"
-  background-image5: "center / cover no-repeat fixed url('/local/bg.png'), center / cover no-repeat fixed url('https://thatkookooguy.github.io/https-assets/bg/abstract/bg5.png')"
-  background-image6: "center / cover no-repeat fixed url('/local/bg.png'), center / cover no-repeat fixed url('https://thatkookooguy.github.io/https-assets/bg/abstract/bg6.png')"
-  background-image7: "center / cover no-repeat fixed url('/local/bg.png'), center / cover no-repeat fixed url('https://thatkookooguy.github.io/https-assets/bg/abstract/bg7.png')"
+  background-image: "center / cover no-repeat fixed url('/local/bg.png'), center / cover no-repeat fixed url('https://ha.home.krisman.be/local/bg.png')"
   lovelace-background: var(--background-image)
   primary-color: "#209cee"
   light-primary-color: "#B6B6C1"
@@ -100,7 +94,7 @@ kibibit:
 #
 kibibit-dark-cards:
   # Global
-  background-image: "center / cover no-repeat fixed url('https://thatkookooguy.github.io/https-assets/bg-kibibit-theme.png')"
+  background-image: "center / cover no-repeat fixed url('https://ha.home.krisman.be/local/bg-kibibit-theme.png')"
   lovelace-background: var(--background-image)
   primary-color: "#209cee"
   light-primary-color: "#B6B6C1"
